@@ -1,1 +1,18 @@
-{}
+{
+  "serval": {
+    "slug": "serval",
+    "name": "Serval",
+    "description": "Serval builds AI agents for IT processes typically outsourced to vendors in India, and is a category leader in the AI for IT services vertical.",
+    "my_understanding": "AI agents for IT processes typically outsourced to vendors in India and now a category leader in AI for IT services vertical",
+    "category": "vertical AI",
+    "website": "serval.com",
+    "links": [],
+    "business_model": "",
+    "gtm_hacks": "",
+    "key_employees": [],
+    "sources": [],
+    "funding": "$75M Series B from Sequoia",
+    "date_added": "2026-03-18",
+    "date_updated": "2026-03-18"
+  }
+}
