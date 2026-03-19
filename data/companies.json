@@ -14,5 +14,22 @@
     "funding": "$75M Series B from Sequoia",
     "date_added": "2026-03-18",
     "date_updated": "2026-03-18"
+  },
+  "cartesia": {
+    "slug": "cartesia",
+    "name": "Cartesia",
+    "description": "Cartesia builds voice foundation models focused on emotion and tonality, aiming to make AI speech as natural as possible. They rank highly on voice AI leaderboards.",
+    "my_understanding": "Makes voice models focused on emotion and tonality making them as natural as possible. Raised a ton of money from Lightspeed and show up on the top leaderboards for most things Voice AI. Not sure what their differentiation is from ElevenLabs and how they'll win.",
+    "category": "foundation models",
+    "website": "cartesia.com",
+    "links": [],
+    "business_model": "",
+    "gtm_hacks": "",
+    "key_employees": [
+      { "name": "Karan Goel", "role": "CEO" }
+    ],
+    "sources": [],
+    "date_added": "2026-03-19",
+    "date_updated": "2026-03-19"
   }
 }
