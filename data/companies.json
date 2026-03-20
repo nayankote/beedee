@@ -51,8 +51,8 @@
   "console": {
     "slug": "console",
     "name": "Console",
-    "description": "Console is an AI platform for IT services, building agents for IT processes. Competitor to Serval.",
-    "my_understanding": "Competitor to Serval, agents for IT services, they call it the AI platform for IT services",
+    "description": "Console is an AI platform for IT services, leveraging AI to build automated workflows that replace manual IT processes. Competitor to Serval.",
+    "my_understanding": "Competitor to Serval, agents for IT services, they call it the AI platform for IT services. Works on workflow automation for IT, i.e., leveraging AI to build automated (fixed?) workflows that IT would then not have to do manually.",
     "category": "vertical AI",
     "website": "console.com",
     "links": [],
