@@ -47,6 +47,22 @@
     "funding": "Raised $6M from GC, looking to raise $40M",
     "date_added": "2026-03-20",
     "date_updated": "2026-03-20"
+  },
+  "console": {
+    "slug": "console",
+    "name": "Console",
+    "description": "Console is an AI platform for IT services, building agents for IT processes. Competitor to Serval.",
+    "my_understanding": "Competitor to Serval, agents for IT services, they call it the AI platform for IT services",
+    "category": "vertical AI",
+    "website": "console.com",
+    "links": [],
+    "business_model": "",
+    "gtm_hacks": "",
+    "key_employees": [],
+    "sources": [],
+    "funding": "~$30M so far, Series A led by DST Global, seed led by Thrive Capital",
+    "date_added": "2026-03-20",
+    "date_updated": "2026-03-20"
   }
 }
 
