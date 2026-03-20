@@ -31,5 +31,22 @@
     "sources": [],
     "date_added": "2026-03-19",
     "date_updated": "2026-03-19"
+  },
+  "agentmail": {
+    "slug": "agentmail",
+    "name": "Agentmail",
+    "description": "Agentmail provides email addresses for AI agents that can be spun up easily, handling authentication and communication for agents.",
+    "my_understanding": "Email addresses for agents that can be spun up very easily; handles authentication and communication for agents. I wonder if the pricing model scales and if agents will continue to communicate over email. Agentmail believes that email will be the centre for all agent identity, which kind of makes sense since all digital infra is authenticated with email and works with email, smart company.",
+    "category": "agent frameworks",
+    "website": "agentmail.to",
+    "links": [],
+    "business_model": "",
+    "gtm_hacks": "Founder was an intern at Accel's marketing team.",
+    "key_employees": [],
+    "sources": [],
+    "funding": "Raised $6M from GC, looking to raise $40M",
+    "date_added": "2026-03-20",
+    "date_updated": "2026-03-20"
   }
 }
+
