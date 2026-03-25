@@ -69,7 +69,7 @@
     "name": "Doss",
     "description": "Doss is an adaptive ERP platform for physical product companies, providing a flexible control surface over existing ERP systems like SAP rather than replacing them.",
     "my_understanding": "They are an adaptive ERP platform that works primarily for physical product companies, insight is that operations in physical product companies are subject to change very often but they are limited by the flexibility of ERP systems. They do not want to replace SAP, they want to work with the existing source and create a new control surface over it.",
-    "category": "vertical AI",
+    "category": "horizontal platform",
     "website": "doss.com",
     "links": [],
     "business_model": "",
