@@ -63,6 +63,22 @@
     "funding": "~$30M so far, Series A led by DST Global, seed led by Thrive Capital",
     "date_added": "2026-03-20",
     "date_updated": "2026-03-20"
+  },
+  "doss": {
+    "slug": "doss",
+    "name": "Doss",
+    "description": "Doss is an adaptive ERP platform for physical product companies, providing a flexible control surface over existing ERP systems like SAP rather than replacing them.",
+    "my_understanding": "They are an adaptive ERP platform that works primarily for physical product companies, insight is that operations in physical product companies are subject to change very often but they are limited by the flexibility of ERP systems. They do not want to replace SAP, they want to work with the existing source and create a new control surface over it.",
+    "category": "vertical AI",
+    "website": "doss.com",
+    "links": [],
+    "business_model": "",
+    "gtm_hacks": "",
+    "key_employees": [],
+    "sources": [],
+    "funding": "$55M from Premji, Madrona, GC, etc.",
+    "date_added": "2026-03-25",
+    "date_updated": "2026-03-25"
   }
 }
 
