@@ -1,0 +1,95 @@
+{
+  "notes": [
+    {
+      "id": "945a37bc-732d-4f04-af6a-240622e98ef3",
+      "text": "I came across Bill Gurley's blog post on how to evaluate marketplaces. They've funded some of the world's largest, such as, Uber, Yelp, Zillow, etc. Reading through Benchmark's 10 commandments of evaluating a marketplace, they generally hold true for most businesses. Is every business a marketplace? Read more here: https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/ Nayan Nandan | Analyst | Accel +91 98459 22156 | @Accel_India",
+      "subject": "Is every business a marketplace?",
+      "timestamp": "2026-02-27T11:23:18.000Z",
+      "source": "email"
+    },
+    {
+      "id": "7cca7b61-c9a9-4be4-9cbc-9d00b33fcf18",
+      "text": "Spending some time understanding context graphs. I don't believe I fully understand if they are a weird esoteric concept or if they have a role to play in real enterprises. The premise is simple - systems of record store the state/ end result/ artifact/ the 'what'. Humans were used in abundance to decode the 'why' that went behind the 'what', and the communication channels for the 'why' have been fragmented, i.e., email, slack, whatsapp, policy docs, etc. If agents do economically useful tasks, such as coding, is it not important for them to get access to the why, and eventually start writing their own whys? Running some experiments this week.",
+      "subject": "Is code the context?",
+      "timestamp": "2026-02-26T13:02:57.000Z",
+      "source": "email"
+    },
+    {
+      "id": "977a7f57-69c0-4f4a-8aca-10dbce12d421",
+      "text": "In a world of lossless translation from intent to actions, do we still need menus (e.g, settings, toggles, lists, etc.)? There are multiple lists that people would rather not browse, why do they still exist? Does my washing machine still need 20 buttons? Would people pay extra for intelligence to abstract menus in the physical world?",
+      "subject": "Why do we need menus?",
+      "timestamp": "2026-02-03T16:40:10.000Z",
+      "source": "email"
+    },
+    {
+      "id": "ec30b76b-6fb2-433e-ab80-62381352c0af",
+      "text": "Man I took a fat fucking L in today?s swim endurance session. I let the 1.9K distance and waves and crowded waters get into my head. Felt weak and bailed halfway, gotta build some mental discipline.",
+      "subject": "Training Ls",
+      "timestamp": "2026-01-29T13:54:19.000Z",
+      "source": "email"
+    },
+    {
+      "id": "05c56adb-7d09-4763-9ef4-a91d2505ff3f",
+      "text": "Quite often I see people quoting labor shortages or limited access to qualified people as a tailwind or a 'why now' driver for certain markets. In my opinion, it is almost certainly never the case that markets get created due to shortages of labor (unless there has been recent event of mass destruction of a particular labor force segment due to war/ disease). Labor shortage is a secular, long-ranging trend, not a sudden shift in market dynamics. Labor shortages motivate companies to adopt new tech and/ or explore new geographies but seldom are the key driver behind these moves. Note to self: If you have not found a tailwind outside of labor shortage, keep looking.",
+      "subject": "Market tailwinds",
+      "timestamp": "2026-01-26T11:11:59.000Z",
+      "source": "email"
+    },
+    {
+      "id": "ce3505a2-3db4-4d78-a631-b47028dcb0bf",
+      "text": "Does this work? Ladies and gentlemen, introducing, DR DREEE",
+      "subject": "test email 5, syoooo",
+      "timestamp": "2026-01-25T20:37:42.000Z",
+      "source": "email"
+    },
+    {
+      "id": "362e5e33-f42b-40c1-9840-c2f645757a38",
+      "text": "Reading The Emperors of Chocolate by Joel Glenn Brenner after the mention on the Mars episode at Acquired. It's amazing, almost as good as Charlie and the Chocolate Factory, except that it's a real story. Tempted to drop everything and pick up chocolate manufacturing",
+      "subject": "Emperors of chocolate is great",
+      "timestamp": "2026-02-27T19:06:20.000Z",
+      "source": "email"
+    },
+    {
+      "id": "fe4c6bcd-bee5-47fd-860d-419ec0e8e5ec",
+      "text": "I wonder if there can be a 3G capital for India? Specially focused on the QSR growth story. We are overloaded with non-Indian QSRs. Darshinis in Bangalore are probably the QSR heroes of the next 5 decades, in India and globally. I wonder if Taaza Thindi can be 3G'ed. Read: https://colossus.com/article/3g-capital-built-to-own/",
+      "subject": "3G capital for India?",
+      "timestamp": "2026-03-02T16:04:19.000Z",
+      "source": "email"
+    },
+    {
+      "id": "8600bbd1-044e-45fc-b80a-d41f3cf0528b",
+      "text": "How are prediction markets different from synthetic CDOs? I don't know much about either, so I'm probably way off, but how can the price movements of an underlying 'asset' be worth (sometimes) more than even the asset? Breaks my brain.",
+      "subject": "Prediction markets?",
+      "timestamp": "2026-03-04T05:53:48.000Z",
+      "source": "email"
+    },
+    {
+      "id": "ff4fcdda-48df-4a25-a335-4782acfb6ce7",
+      "text": "Depressing moment today when I went to the 2nd degree connections at Serval AI, just to find that 7/10 2nd degree connections were investors, not actually employees at Serval. Needs to improve. Nayan Nandan | Analyst | Accel +91 98459 22156 | @Accel_India",
+      "subject": "Improving my network",
+      "timestamp": "2026-03-20T12:11:12.000Z",
+      "source": "email"
+    },
+    {
+      "id": "fa74afe2-62dc-41ad-917a-a77a1bb13216",
+      "text": "What it must be like to build something that endures long after you're gone. It is the pursuit of life. Some examples that come to mind: 1. Stairway to Heaven by Robert Plant, Jimmy Page, John Paul Jones and John Bonham (aka Led Zeppelin) 2. Nike by Phil Knight 3. Mars by Forrest Mars and Hershey by Milton Hershey 4. Every word written by Roald Dahl 5. Apple by Steve Jobs What it must be like to know that you left the world better than you found it, at a population scale. This is THE pursuit of life.",
+      "subject": "Lasting legacy",
+      "timestamp": "2026-03-25T17:38:34.000Z",
+      "source": "email"
+    },
+    {
+      "id": "62667c82-7895-4aec-9edd-1b68aca2ac80",
+      "text": "I'm learning a lot from first principles of how to ingest and store data, how to design DBs and probably not bloat storage. It's mostly guesswork, claude does a poor job with recommendations and only comes up with valid reccos once I probe based on first principles. I don't know how I feel about this",
+      "subject": "Moving data",
+      "timestamp": "2026-03-30T14:16:14.000Z",
+      "source": "email"
+    },
+    {
+      "id": "984e0463-ca66-43ba-8fd7-b32f84306515",
+      "text": "Devansh, who went to The Shri Ram School in Gurugram Haryana, writes - I am investing alongside Ben Horowitz and it is our job to ensure the west wins.",
+      "subject": "Spineless",
+      "timestamp": "2026-03-31T11:12:51.000Z",
+      "source": "email"
+    }
+  ]
+}

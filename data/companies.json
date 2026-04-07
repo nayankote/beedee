@@ -79,6 +79,25 @@
     "funding": "$55M from Premji, Madrona, GC, etc.",
     "date_added": "2026-03-25",
     "date_updated": "2026-03-25"
+  },
+  "h2loop": {
+    "slug": "h2loop",
+    "name": "H2Loop",
+    "description": "H2Loop is building CodeMetal for India, focusing on porting hardware-aware code from legacy languages to modern languages.",
+    "my_understanding": "Seems unlikely that they will win against large guys like CodeMetal, they have the same target customer set. Whenever a founder over-indexes on sovereignty (unless its consumable hardware), I remain skeptical. Decent founding team though.",
+    "category": "coding tools",
+    "website": "H2Loop.com",
+    "links": [],
+    "business_model": "",
+    "gtm_hacks": "",
+    "key_employees": [
+      { "name": "SaiRanjan Mishra", "role": "CEO" },
+      { "name": "Pulkit", "role": "CTO" }
+    ],
+    "sources": ["Spoke to founder Sai on 2026-04-07"],
+    "funding": "$2M from Speciale, Pi, etc.",
+    "date_added": "2026-04-07",
+    "date_updated": "2026-04-07"
   }
 }
 

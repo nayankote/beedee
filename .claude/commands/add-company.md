@@ -4,15 +4,17 @@ User input: $ARGUMENTS
 
 ## Your task
 
-1. Read `data/companies.json`.
+1. Run `git pull` to sync the latest data before making changes.
 
-2. Generate a slug from the company name: lowercase, spaces and special characters replaced with hyphens, no leading/trailing hyphens. Example: "Anysphere (Cursor)" → "anysphere-cursor".
+2. Read `data/companies.json`.
 
-3. Check if an entry with that slug already exists:
+3. Generate a slug from the company name: lowercase, spaces and special characters replaced with hyphens, no leading/trailing hyphens. Example: "Anysphere (Cursor)" → "anysphere-cursor".
+
+4. Check if an entry with that slug already exists:
    - **Exists**: update. Preserve all existing fields. Only overwrite fields explicitly mentioned in the user input. Set `date_updated` to today (YYYY-MM-DD). Do NOT change `date_added`.
    - **Does not exist**: create. Set both `date_added` and `date_updated` to today.
 
-4. Parse the user's free-form input and populate as many fields as possible. Leave fields as `""` or `[]` if information is not provided — never invent data.
+5. Parse the user's input and populate as many fields as possible. Fields are delimited by semicolons (`;`). Commas within a field are part of the text, not delimiters. Leave fields as `""` or `[]` if information is not provided — never invent data.
 
    Fields:
    - `slug` (string) — generated as above
@@ -29,9 +31,11 @@ User input: $ARGUMENTS
    - `date_added` (string, ISO date)
    - `date_updated` (string, ISO date)
 
-5. Write the updated `data/companies.json` back with 2-space indentation.
+6. Write the updated `data/companies.json` back with 2-space indentation.
 
-6. Confirm: slug, create or update, which fields were populated or changed.
+7. Confirm: slug, create or update, which fields were populated or changed.
+
+8. Run `git add data/companies.json`, then commit with message "Add/Update <company name> in AI intelligence database", then `git push`.
 
 ## Notes
 - Never delete existing fields on update — only add or overwrite what the user mentions.
